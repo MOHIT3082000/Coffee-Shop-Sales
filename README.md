@@ -1,1 +1,2 @@
-# Coffee-Shop-Sales
+# **Coffee Shop Sales Analysis Project**  
+In this project, I analyzed coffee shop sales data stored in Excel files. The workflow included data cleaning, preprocessing, and feature engineering to create new columns. I utilized pivot tables for various calculations and developed an interactive dashboard using colorful graphs, charts, and pie charts, enriched with descriptive visuals and images. This dashboard provides key insights into sales performance and trends.
